@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hasan Rahman</h1>
 <h3 align="center">I'm a mobile application developer</h3>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Flutter , node.js**
+- 🌱 I’m currently learning **Javascript , node.js**
 
-- 👯 I’m looking to collaborate on **Flutter Open Source Project**
+- 👯 I’m looking to collaborate on **Javascript Open Source Project**
 
 - 📫 How to reach me **hasanrahman5555@gmail.com**
 
